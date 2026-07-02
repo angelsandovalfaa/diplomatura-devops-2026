@@ -1,0 +1,5 @@
+Esta practica profesional cierra muy bien el bloque de observabilidad porque convierte Prometheus, Grafana y Alertmanager en un stack concreto instalado y funcionando sobre Ubuntu. La propuesta es claramente de taller: descargar, configurar servicios, verificar acceso web, conectar piezas y empezar a mirar metricas reales.
+
+Prometheus aparece como el recolector y almacen de metricas. Grafana como la capa visual donde esas metricas se vuelven paneles comprensibles. Y Alertmanager como el mecanismo que toma reglas y las convierte en notificaciones cuando algo se sale de lo esperado. La practica suma ademas Node Exporter para observar metricas del sistema, lo cual vuelve la experiencia mucho mas completa.
+
+Mas alla de la instalacion paso a paso, el valor profundo del laboratorio esta en que te hace ver la observabilidad como un sistema conectado. Las metricas no viven aisladas. Se recolectan, se guardan, se visualizan y, si hace falta, disparan alertas. Cuando el estudiante termina esta practica, deja de pensar en monitoreo como una idea lejana y empieza a tener un stack funcional en la cabeza, con componentes, responsabilidades y flujo de datos muy claros.
