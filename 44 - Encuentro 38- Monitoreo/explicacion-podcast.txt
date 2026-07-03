@@ -1,5 +1,0 @@
-Esta clase toma la base de telemetria y la lleva a la disciplina del monitoreo como practica operativa. Primero responde una pregunta esencial: por que monitorear no es opcional. Un sistema sin monitoreo funciona a ciegas y se entera de los problemas cuando los usuarios ya estan sufriendo. En cambio, un sistema observado puede detectar degradaciones, sostener SLA y anticipar fallas.
-
-La clase distingue monitoreo reactivo y proactivo, y esa diferencia es muy importante. El reactivo avisa cuando algo ya se rompio. El proactivo detecta señales tempranas y permite actuar antes. Luego el recorrido pasa por monitoreo de infraestructura, aplicaciones, experiencia de usuario y herramientas como Nagios, junto con su integracion conceptual con Prometheus y Grafana.
-
-Lo valioso del encuentro es que muestra al monitoreo como una mezcla de medicion, criterio y accion. No se trata solo de llenar pantallas con graficos, sino de decidir que importa, donde poner umbrales, como evitar fatiga de alertas y como convertir datos en decisiones operativas. En otras palabras, monitorear bien es aprender a escuchar un sistema antes de que empiece a gritar.

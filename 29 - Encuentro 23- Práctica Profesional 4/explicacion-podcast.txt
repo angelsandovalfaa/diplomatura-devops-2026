@@ -1,5 +1,0 @@
-Esta practica toma los conceptos de Docker y Kubernetes y los baja a una experiencia concreta sobre una VM local. Primero se repasa que son los contenedores y por que son distintos de las maquinas virtuales. Despues se instala Docker, se exploran comandos, se ejecuta un servidor web y se construye una imagen personalizada. En esa primera mitad, el estudiante ve a los contenedores funcionando realmente, no solo como teoria.
-
-La segunda mitad introduce Kubernetes con Minikube y kubectl. Eso permite levantar un cluster local, crear pods, trabajar con deployments y exponer servicios. Es un laboratorio especialmente valioso porque junta dos capas que suelen aprenderse separadas: el contenedor individual y el sistema que despues lo orquesta.
-
-Lo mas interesante es que la practica hace visible la diferencia de escala. Docker te enseña a empaquetar y ejecutar. Kubernetes te enseña a declarar, replicar y sostener. Ver ambas cosas juntas, en el mismo ejercicio, ayuda muchisimo a ordenar la cabeza. Ya no son tecnologias de moda flotando en el aire, sino herramientas concretas que resuelven partes distintas de una misma cadena operativa.
