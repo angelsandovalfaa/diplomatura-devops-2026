@@ -6,4 +6,29 @@ utiliza [PODCAST-PROMP-PROFESOR-.txt](PODCAST-PROMP-PROFESOR-.txt) analiza y ver
 
 
 
-analiza /Users/angelsandoval/proyectos/diplomatura-devops-2026/21 - Encuentro 15- CircleCi y crea un pin similar a /Users/angelsandoval/proyectos/diplomatura-devops-2026/46 - Presentación de PIN para practicar todo el contenido y crea una carpeta en la raiz con el nombre de ejemplo pin-lab
+analiza /Users/angelsandoval/proyectos/diplomatura-devops-2026/21 - Encuentro 15- CircleCi y crea un pin similar a /Users/angelsandoval/proyectos/diplomatura-devops-2026/46 - Presentación de PIN para practicar todo el contenido y crea en la carpeta en la raiz pin-lab una carpeta con el nombre de ejemplo del proyecto
+
+
+Analiza la carpeta de esta clase:
+
+`[RUTA_DE_LA_CLASE]`
+
+Usa como modelo de referencia el proyecto ubicado en:
+
+`/Users/angelsandoval/proyectos/diplomatura-devops-2026/46 - Presentación de PIN`
+
+Crea un nuevo PIN práctico para ejercitar todo el contenido de la clase, siguiendo la misma estructura, calidad y nivel de detalle del proyecto de referencia.
+
+Guárdalo dentro de:
+
+`/Users/angelsandoval/proyectos/diplomatura-devops-2026/pin-lab`
+
+El nombre de la carpeta debe salir del texto que aparezca como:
+
+`Proyecto Integrador Final (Nombre del proyecto)`
+
+Usa el contenido entre paréntesis y agrega una referencia breve al título de la clase. Normaliza el nombre en minúsculas y con guiones.
+
+Crea todos los archivos necesarios, deja el proyecto funcional, documentado y listo para practicar. No modifiques las carpetas originales.
+
+Al finalizar, ejecuta las validaciones necesarias y muestra un resumen de lo creado.
