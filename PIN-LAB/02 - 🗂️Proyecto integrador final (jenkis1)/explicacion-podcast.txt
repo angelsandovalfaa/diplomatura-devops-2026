@@ -1,0 +1,7 @@
+Este PIN toma el contenido de Jenkins I y lo convierte en una practica integradora centrada en una idea muy concreta: automatizar con orden y dejar evidencia. Jenkins no aparece aca solo como una herramienta para correr comandos, sino como una plataforma desde la cual un equipo puede organizar un flujo repetible, visible y auditable.
+
+La eleccion de un Job Freestyle tiene mucho sentido para esta etapa. Antes de pasar a pipelines declarativos o Jenkinsfile, este formato permite ver con claridad cada parte del recorrido: de donde sale el codigo, como se dispara el trabajo, que pasos se ejecutan y que evidencias quedan despues. Dicho simple, ayuda a entender la anatomia de un build sin esconder la logica detras de demasiada abstraccion.
+
+Tambien es una propuesta muy alineada con el espiritu de Jenkins I porque obliga a pensar varias capas al mismo tiempo. Hay una capa de instalacion y configuracion inicial. Hay una capa de seguridad, porque aparecen usuarios, credenciales y permisos. Hay una capa de ejecucion, donde entran los tests, el empaquetado y los artefactos. Y hay una capa de observabilidad, donde importa leer logs, revisar historiales y entender por que una build salio bien o mal.
+
+En el fondo, este proyecto resume algo muy valioso de la clase: la automatizacion no sirve demasiado si no es trazable, reproducible y mantenible. Por eso el objetivo del PIN no es solo “hacer funcionar Jenkins”, sino aprender a usarlo con criterio, mostrando que cada decision tecnica deja una huella clara y defendible.
